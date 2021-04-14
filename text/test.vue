@@ -4,7 +4,11 @@
 
 <script>
 export default {
-    name:'vue'
+    name:'vue',
+    components:
+    {
+      
+    }
 }
 </script>
 
